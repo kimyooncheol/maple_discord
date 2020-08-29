@@ -1,5 +1,5 @@
 # 메이플스토리 디스코드 봇
-
+![logo](https://ssl.nx.com/s2/game/maplestory/renewal/common/logo.png)
 ## Project Info
 - maple.gg에서 유저 정보 크롤링후 정보 제공 
 - maple api를 사용해 패치 정보 제공
