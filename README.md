@@ -13,8 +13,8 @@
 - 파싱 함수 최적화
 ## Bugs
 - 
+## Used Packages
 ```
-# Used package
 - asyncio: 비동기 통신을 위해 사용됨
 - requsets: maple.gg에서 유저 정보및 공홈 이벤트 정보를 크롤링 하기 위해 사용됨
 - bs4: 크롤링 데이터를 파싱하기 위해 사용됨
